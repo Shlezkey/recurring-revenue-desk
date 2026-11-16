@@ -11,3 +11,12 @@
 - Search Console impressions/clicks, site sessions, systeme.io affiliate clicks, signups, paid referrals, pending/paid commissions: **unknown**, dashboard not accessible. No revenue claimed.
 - No spending, paid trials, ads, or bulk outreach.
 - Next highest-value step when a project-owned posting channel is available: distribute one of the already-prepared, disclosed educational posts from ACQUISITION-SPRINT.md in a community that permits it; log post URL and resulting metrics.
+
+## 2026-11-16 — Weekly execution
+- Read the existing execution log, acquisition sprint, homepage and sitemap before acting.
+- Reviewed the homepage and found the service-business guide promoted twice, diluting the primary action. Removed the duplicate section and clarified that the guide requires neither purchase nor email signup; retained the existing disclosed systeme.io affiliate URL unchanged. Homepage commit: d6ea9c472369db4f2141e938fb92e5990952fb88.
+- Confirmed the source sitemap includes the service-business guide. Did not claim live search indexing or external traffic.
+- Attempted connected Gmail search for systeme.io, affiliate commission, and project mail since November 8; connector returned `link_id must identify an eligible linked account`. No inbox results can be verified this run.
+- No connected project-owned publishing channel or systeme.io/Search Console dashboard was accessible. No external distribution, customer outreach, or affiliate conversions claimed.
+- Traffic, affiliate clicks, signups, paid referrals, commissions: **unknown**, not zero. No spending or paid service was initiated.
+- Next priority: use an authorized project-owned social publishing connection for disclosed distribution; then inspect actual clicks and paid referrals when dashboard access exists.
